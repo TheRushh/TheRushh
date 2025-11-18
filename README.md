@@ -5,40 +5,34 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rushhv@gmail.com)
 [![AWS Certified](https://img.shields.io/badge/AWS-Certified_Developer-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/7195af3f-fe69-464b-80df-6697db95a5d7/)
 
-## 🚀 Senior Technical Lead | Full-Stack Developer
+## 🚀 Full-Stack Engineer | Cloud-Native Architect
 
-Senior Software Developer with over **6 years of experience** leading successful software design and development projects with a strong focus on cloud-native architectures. Currently leading a team of 6 engineers at BMO Bank of Montreal, managing cloud-native microservices for **1.8M+ customers** from the BMO-Bank of the West merger.
+Building distributed systems and cloud-native applications with focus on scalability, performance, and security. Specialized in microservices architecture, event-driven systems, and modern DevOps practices.
 
-📍 Toronto, ON | 📧 rushhv@gmail.com | 📱 +1-905-781-1812
+📍 Toronto, ON | 📧 rushhv@gmail.com
 
 ---
 
-## 💼 Professional Experience
+## 🔧 Technical Focus Areas
 
-### **Senior Technical Lead (Full-Stack)** @ BMO Bank of Montreal
-*Feb 2022 – Present | Toronto, ON*
+### Cloud-Native Architecture
+- **Microservices**: Java/Spring Boot, Node.js, Go-based services with REST and gRPC
+- **Event-Driven Systems**: Kafka, AWS MSK, SQS/SNS for asynchronous processing
+- **Service Mesh**: API gateway patterns, load balancing, circuit breakers
+- **Containerization**: Docker, Kubernetes orchestration with Helm charts
+- **Infrastructure as Code**: Terraform, CloudFormation for AWS resource provisioning
 
-- 🎯 Lead 6-engineer team managing cloud-native microservices for 1.8M+ customers
-- 🔐 Developed **Security Hub** with Oracle DB for suspicious activity detection
-- 💡 Leading **"Insights" project** predicting debit/credit transactions using AWS SQS/SNS
-- 🔑 Implemented **SSO** using SAML/proprietary tokens for seamless cross-account transfers
-- ⚡ Designed multithreaded solution reducing vendor communication by **25%**
-- ☁️ Migrated Java/Spring Boot applications to AWS with CI/CD pipelines and blue/green deployments
-- 📊 Led Kafka migration to AWS MSK with AES encryption; integrated OpenSearch, ELK, Dynatrace
-- 👨‍🏫 Mentor 4 junior developers and conduct code reviews
+### Backend Systems
+- **Multithreaded Applications**: Concurrent processing, thread pools, executor services
+- **Database Optimization**: Oracle, PostgreSQL query tuning, connection pooling, caching strategies
+- **Security**: SAML 2.0, OAuth 2.0, JWT token validation, AES encryption
+- **Integration Patterns**: BFF architecture, adapter/facade patterns, message transformation
 
-### **Software Developer** @ BMO Bank of Montreal
-*Jun 2020 – Feb 2022 | Toronto, ON*
-
-- Built Backend-for-Frontend (BFF) microservices using Java/Spring Boot
-- Developed integration layers connecting **15+ internal banking systems**
-- Implemented secure data transmission protocols during cloud migration
-
-### **Junior Android Developer** @ Samay Software
-*Jul 2017 – Aug 2018 | Gujarat, India*
-
-- Developed Android mobile applications using Java and Kotlin
-- Implemented UI components and integrated RESTful APIs
+### DevOps & CI/CD
+- **Pipeline Automation**: Jenkins, ArgoCD for GitOps-based deployments
+- **Deployment Strategies**: Blue/green, canary releases, zero-downtime deployments
+- **Observability**: OpenSearch/ELK stack, Dynatrace APM, distributed tracing
+- **Monitoring**: CloudWatch metrics, custom dashboards, alerting strategies
 
 ---
 
@@ -143,39 +137,62 @@ Senior Software Developer with over **6 years of experience** leading successful
 
 ---
 
-## 🔥 Key Projects & Achievements
+## 🔥 Technical Projects
 
-- 🏦 **Banking Merger Integration**: Led development for seamless onboarding of 1.8M customers
-- 🔮 **Insights Prediction System**: AWS-based transaction prediction using SQS/SNS
-- 🛡️ **Security Hub**: Suspicious login detection system with Oracle DB
-- 🔐 **SSO Implementation**: SAML-based single sign-on for retail/SMB customers
-- ⚡ **Performance Optimization**: 25% reduction in vendor communication via multithreading
-- ☁️ **Cloud Migration**: Zero-downtime deployments with blue/green strategies
-- 📡 **Kafka to AWS MSK**: Managed migration with AES encryption
+### Security Hub - Anomaly Detection System
+- **Stack**: Java, Spring Boot, Oracle DB, Redis caching
+- **Architecture**: Event-driven microservice with async processing
+- **Implementation**: Pattern matching algorithms, geolocation analysis, device fingerprinting
+- **Performance**: Sub-100ms response time with connection pooling and prepared statements
+
+### Transaction Insights Engine
+- **Stack**: AWS Lambda, SQS, SNS, DynamoDB, Python
+- **Architecture**: Serverless event-driven pipeline
+- **Implementation**: Real-time stream processing, predictive analytics, pub/sub messaging
+- **Scale**: Processing millions of daily transactions with auto-scaling
+
+### Identity Federation System
+- **Stack**: SAML 2.0, JWT, Spring Security, OAuth 2.0
+- **Architecture**: Token-based authentication with distributed session management
+- **Implementation**: XML signature validation, assertion encryption, IdP integration
+- **Security**: AES-256 encryption, RSA key pairs, secure token storage
+
+### Multithreaded Batch Processor
+- **Stack**: Java, ExecutorService, CompletableFuture
+- **Architecture**: Producer-consumer pattern with blocking queues
+- **Implementation**: Thread pool management, backpressure handling, retry mechanisms
+- **Optimization**: Reduced external API calls by 25% via request batching
+
+### AWS Migration & Modernization
+- **Stack**: AWS ECS/EKS, RDS, S3, CloudFront, Route53
+- **Architecture**: 12-factor app principles, containerized microservices
+- **Implementation**: Blue/green deployments, health checks, auto-scaling groups
+- **Tooling**: Terraform IaC, Jenkins pipelines, Docker multi-stage builds
+
+### Kafka to AWS MSK Migration
+- **Stack**: Apache Kafka, AWS MSK, Schema Registry, Avro
+- **Architecture**: Event streaming platform with topic partitioning strategy
+- **Implementation**: Consumer group rebalancing, exactly-once semantics, AES encryption
+- **Monitoring**: Integrated with OpenSearch for log aggregation and analysis
 
 ---
 
-## 💡 Core Competencies
+## 💡 Technical Interests
 
-- ✅ Full-Stack Software Development
-- ✅ Cloud-Native Architectures (AWS/Azure)
-- ✅ Microservices & API Development
-- ✅ Team Leadership & Mentorship
-- ✅ Agile/Scrum Methodologies
-- ✅ DevOps & CI/CD Pipelines
-- ✅ Security & Performance Optimization
-- ✅ System Design & Architecture
+- Distributed Systems & Consensus Algorithms
+- High-Performance Computing & Concurrency
+- System Design & Scalability Patterns
+- Cloud Security & Zero-Trust Architecture
+- Observability & Performance Engineering
+- Container Orchestration & Service Mesh
 
 ---
 
-## 📫 Get In Touch
+## 📫 Contact
 
-I'm always interested in connecting with fellow developers and exploring new opportunities!
-
-- 🌐 Portfolio: [rushh.dev](https://rushh.dev)
-- 💼 LinkedIn: [rushabhvakharwala](https://linkedin.com/in/rushabhvakharwala)
-- 📧 Email: [rushhv@gmail.com](mailto:rushhv@gmail.com)
-- 📱 Phone: +1-905-781-1812
+- 🌐 [rushh.dev](https://rushh.dev)
+- 💼 [LinkedIn](https://linkedin.com/in/rushabhvakharwala)
+- 📧 [rushhv@gmail.com](mailto:rushhv@gmail.com)
 
 ---
 
