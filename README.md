@@ -15,6 +15,17 @@
 
 ---
 
+## 👨‍💻 About Me
+
+- Building distributed systems and cloud-native applications focused on scalability & performance
+- Specialized in microservices architecture and event-driven systems (Kafka, SQS/SNS)
+- Experienced with containerization, Kubernetes orchestration, and Infrastructure as Code
+- Strong background in security: SAML 2.0, OAuth 2.0, JWT, and encryption
+- Passionate about observability, performance engineering, and zero-downtime deployments
+- Based in Toronto, ON
+
+---
+
 ## 🛠️ Tech Stack
 
 **Languages**
