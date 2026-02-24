@@ -1,35 +1,35 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/terminal-banner.svg" width="100%" alt="terminal banner" />
+</p>
 
-# Hi, I'm Rushabh Vakharwala 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=900&color=82AAFF&center=true&vCenter=true&width=760&lines=Distributed+Systems+%7C+Microservices+%7C+DevOps;AWS+Certified+Developer+Associate;Security%2C+Observability+and+Performance+Engineering" alt="Typing SVG" />
+</p>
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="coding gif"/>
 
-**Full-Stack Engineer | Cloud-Native Architect**
+<p align="center">
+  <a href="https://linkedin.com/in/rushabhvakharwala"><img src="https://img.shields.io/badge/LinkedIn-Rushabh_Vakharwala-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://rushh.dev"><img src="https://img.shields.io/badge/Portfolio-rushh.dev-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="mailto:rushhv@gmail.com"><img src="https://img.shields.io/badge/Email-rushhv%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.credly.com/badges/7195af3f-fe69-464b-80df-6697db95a5d7/"><img src="https://img.shields.io/badge/AWS-Certified_Developer-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rushabhvakharwala)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rushh.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rushhv@gmail.com)
-[![AWS](https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/7195af3f-fe69-464b-80df-6697db95a5d7/)
+* * *
 
-</div>
+## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30"> About Me
 
----
-
-## 👨‍💻 About Me
-
-- Building distributed systems and cloud-native applications focused on scalability & performance
-- Specialized in microservices architecture and event-driven systems (Kafka, SQS/SNS)
-- Experienced with containerization, Kubernetes orchestration, and Infrastructure as Code
-- Strong background in security: SAML 2.0, OAuth 2.0, JWT, and encryption
-- Passionate about observability, performance engineering, and zero-downtime deployments
+- Building scalable distributed systems and cloud-native applications
+- Focused on microservices and event-driven architecture (Kafka, SQS/SNS)
+- Hands-on with Kubernetes, Docker, and Infrastructure as Code
+- Strong security foundation: SAML 2.0, OAuth 2.0, JWT, encryption
+- Interested in observability, resiliency, and zero-downtime deployments
 - Based in Toronto, ON
 
----
+* * *
 
-## 🛠️ Tech Stack
+## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="30"> Tech Stack
 
-**Languages**
-
+### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -39,8 +39,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 
-**Frameworks**
-
+### Frameworks & Runtime
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
@@ -49,8 +48,7 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
 
-**Cloud & DevOps**
-
+### Cloud, DevOps & Data
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -58,9 +56,6 @@
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
-
-**Databases**
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
@@ -69,30 +64,34 @@
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
----
+* * *
 
-## 📊 GitHub Stats
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJhYzI3N2hvaWMwZW5wMHQ3eTE5aTVhYWR4NzRkZTdiNm4xMmtwNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tXL4FHPSnVJ0A/giphy.gif" width="30"> GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TheRushh&show_icons=true&theme=nightowl&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TheRushh&layout=compact&theme=nightowl&hide_border=true&langs_count=8" />
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TheRushh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TheRushh&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=TheRushh&theme=nightowl&hide_border=true" />
+</p>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TheRushh&theme=tokyo-night&hide_border=true&area=true)
+<p align="center">
+  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=TheRushh&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
+</p>
 
-</div>
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=TheRushh&theme=nightowl&hide_border=true&area=true" />
+</p>
 
----
+* * *
 
-## 🎓 Education & Certs
+## <img src="https://media.giphy.com/media/Y4bzPL5xO3uPq/giphy.gif" width="30"> Education & Certification
 
 - **M.Sc Applied Computing** - University of Windsor (2020)
-- **AWS Certified Developer Associate** - [Credential](https://www.credly.com/badges/7195af3f-fe69-464b-80df-6697db95a5d7/)
+- **AWS Certified Developer Associate** - [View Credential](https://www.credly.com/badges/7195af3f-fe69-464b-80df-6697db95a5d7/)
 
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=TheRushh&color=blueviolet&style=flat-square)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TheRushh&label=Profile+Views&color=0891b2&style=flat-square" alt="profile views" />
+</p>
